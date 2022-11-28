@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_fleur.mk
+    $(LOCAL_DIR)/aosp_fleur.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_fleur-user \
-    omni_fleur-userdebug \
-    omni_fleur-eng
+    aosp_fleur-user \
+    aosp_fleur-userdebug \
+    aosp_fleur-eng
