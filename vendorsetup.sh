@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_fleur-user
-add_lunch_combo omni_fleur-userdebug
-add_lunch_combo omni_fleur-eng
+add_lunch_combo aosp_fleur-user
+add_lunch_combo aosp_fleur-userdebug
+add_lunch_combo aosp_fleur-eng
