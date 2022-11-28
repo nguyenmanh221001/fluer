@@ -6,9 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_fleur.mk
+    $(LOCAL_DIR)/twrp_fleur.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_fleur-user \
-    twrp_fleur-userdebug \
     twrp_fleur-eng
