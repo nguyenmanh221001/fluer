@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/xiaomi/fleur/device.mk)
 
 PRODUCT_DEVICE := fleur
-PRODUCT_NAME := omni_fleur
+PRODUCT_NAME := aosp_fleur
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := fleur
 PRODUCT_MANUFACTURER := xiaomi
